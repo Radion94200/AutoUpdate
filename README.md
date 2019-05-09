@@ -1,23 +1,23 @@
-# Name
+## Name
 AUTO-UPDATE
 
-# Description
+## Description
 This is a little script shell which is not optimised. \
 It permit to do Updates of apt regularly (1 time a day). \
 This method is not the best method (can be replace by a cron) but its a good \
 way to learn some command in shell.
 
-# Installation
+## Installation
 For a good use you must:
 
-```shell
+```bash
 chmod +x update.sh
 ```
 
-# Usage
+## Usage
 This presentation permit to execute the program in background.
 
-```shell
+```bash
 ./update.sh
 Ctrl + z
 bg
